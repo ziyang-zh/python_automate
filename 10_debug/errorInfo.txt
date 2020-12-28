@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ziyang-zh/Desktop/python_automate/10_debug/10_02_errorExample.py", line 4, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
